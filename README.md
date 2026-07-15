@@ -1,6 +1,6 @@
 # 🌊 Seaborn — Statistical Data Visualization Guide
 
-Following your training pipeline with **NumPy**, **Pandas**, and **Matplotlib**, **Seaborn** serves as the next logical step for statistical data visualization in Python. While Matplotlib gives you raw, blueprint-level control over your plots, Seaborn wraps around it to provide a high-level, elegant interface for drawing attractive and informative statistical graphics out of Pandas DataFrames.
+Following your training pipeline with **NumPy**, **Pandas**, and **Matplotlib**, **Seaborn** serves as the next logical step for statistical data visualization in Python. While Matplotlib gives you raw, blueprint-level control over your plots, Seaborn wraps around it to provide a high-level, elegant interface for drawing   attractive and informative statistical graphics out of Pandas DataFrames.
 
 ---
 
